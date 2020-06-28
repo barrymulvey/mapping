@@ -67,4 +67,4 @@ The rtabmap-databaseViewer tool can be used to explore the database after it has
 ```
 $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 ```
-Click "yes" when prompted about using the database parameters, and add different views (e.g. Constrain View, Graph View) to get a better view of the relevant information. 
+Click "yes" when prompted about using the database parameters, and add different views (e.g. Constraints View, Graph View) to get a better view of the relevant information. 
