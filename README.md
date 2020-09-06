@@ -27,7 +27,7 @@ $ mkdir -p catkin_ws/src && cd catkin_ws
 ```
 Clone the driver:
 ```
-$ git clone https://github.com/mulbarry/mapping.git src/mapping
+$ git clone https://github.com/barrymulvey/mapping.git src/mapping
 ```
 Install dependencies:
 ```
